@@ -28,5 +28,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Add your name here](https://trzmlel.github.io/trzmiel/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/TRZMlEL)
+- Website - [TRZMIEL](https://trzmlel.github.io/trzmiel/)
+- Frontend Mentor - [@TRZMIlEL](https://www.frontendmentor.io/profile/TRZMlEL)
